@@ -1,0 +1,1 @@
+document.getElementById("luci").innerHTML = "4. Cual es la cuidad de los rascacielos";

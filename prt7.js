@@ -1,0 +1,1 @@
+document.getElementById("luciana").innerHTML = "7. Cual es la capital de dinamarca";

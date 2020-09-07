@@ -1,0 +1,1 @@
+document.getElementById("lucian").innerHTML = "6. Cual es el libro sagrado del Islam";
